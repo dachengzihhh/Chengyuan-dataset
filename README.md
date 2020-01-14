@@ -1,2 +1,2 @@
 # Chengyuan-dataset
-Panoramic annular images taken on Chengyuan campus, in Hangzhou, China. Planes and panoramas are also concluded.Chengyuan dataset is attached. https://pan.baidu.com/s/14oeOeHs0NG8b2g-zqQFhAQ
+Panoramic annular images are taken on Chengyuan campus, in Hangzhou, China, sunset 1 includes winter sunny afternoon senarios, subset 2 provides summer views, subset 3 contains winter cloudy morning senarios. Ground truth of subset 2 and subset 3 are also given when subset 1 is set as database, to facilitate study of visual localizition. Planes and explicit panoramas are also concluded. Chengyuan dataset is attached here. https://pan.baidu.com/s/14oeOeHs0NG8b2g-zqQFhAQ
